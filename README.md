@@ -1,4 +1,4 @@
-# CODSOFT-JUNE
+# CODSOFT
 ## Projects done during summer internship.
 
 ### 1. Titanic Survival Prediction
